@@ -8,7 +8,12 @@ For the ones that forgot:
 
 ````bash
 git clone git@github.com:Polluxs/go-lazystart.git foldername
-`
+`````
+
+Also don't forget:
+```bash
+sudo rm -r .git
+```
 
 ### Build commands
 
