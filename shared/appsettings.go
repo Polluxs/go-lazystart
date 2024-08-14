@@ -3,7 +3,7 @@ package shared
 import (
 	"github.com/spf13/viper"
 	"go.uber.org/zap"
-	"results-on-postgresql/logger"
+	"main/logger"
 )
 
 func InitialiseAppSettings(path string) {

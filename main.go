@@ -1,6 +1,6 @@
-package results_on_postgresql
+package main
 
-import "results-on-postgresql/shared"
+import "main/shared"
 
 func main() {
 	shared.InitialiseAppSettings(".")

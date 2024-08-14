@@ -1,4 +1,4 @@
-module results-on-postgresql
+module main
 
 go 1.22
 
